@@ -30,3 +30,8 @@ Ensure you have Python installed on your system. Clone this repository and insta
 
 ```bash
 pip install -r requirements.txt
+```
+###usage
+```bash
+python sniffql.py -u <target_url> [-t <timeout>] [-o <output_format>]
+```
