@@ -39,11 +39,11 @@ introspection_queries = [
 def check_url(url):
     timeout = args.timeout
     try:
-        # Add "https://" if not already present
+        
         if not url.startswith(('http://', 'https://')):
             url = 'https://' + url
 
-        # Add trailing slash if not already present
+        
         if not url.endswith('/'):
             url += '/'
 
