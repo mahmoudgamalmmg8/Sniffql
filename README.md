@@ -14,7 +14,7 @@
 
 ### Overview
 
-SniffQL is a tool designed to check GraphQL endpoints for a given URL. It helps identify valid GraphQL URLs and performs introspection queries to retrieve schema information. This tool can be useful for security researchers, developers, and anyone working with GraphQL APIs.
+SniffQL is a tool designed to check GraphQL endpoints for a given URL. It helps identify valid GraphQL URLs and performs introspection queries to retrieve schema information. This tool can be useful for security researchers, bug hunters
 
 ### Features
 
